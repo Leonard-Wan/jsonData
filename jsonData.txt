@@ -1,14 +1,20 @@
 [
 	{"name": "DJI Phantom 5",
 	"image": "12.jpg",
-	"recipe": "Training sessions ith the new DJI Phantom 5",
+	"shortD": "Training sessions ith the new DJI Phantom 5",
+        "longD": " DJI will be providing training sessions with their newest professional drone, the DJI Phantom 5. Limited times will be available for one-on-one sessions.",
+        "sessions": "Saturday 2:00pm, Saturday 2:05pm, Saturday 2:10pm, Saturday 1:15pm, Saturday 1:20pm, Saturday 1:25pm, Sunday 2:00pm, Sunday 2:05pm, Sunday 2:10pm, Sunday 2:15pm, Sunday 2:20pm, Sunday 2:25pm",
 	"uid": "12" },
 	{"name": "Robot Demonstrations",
 	"image": "16.jpg",
-	"recipe": "An opportunity to interact with a humanoid robot designed for customer interaction.",
+	"shortD": "An opportunity to interact with a humanoid robot designed for customer interaction.",
+        "longD": "  Meet Oscar, a llife-sized robot design to enable full human interaction in service environments. Oscar has a fully-integrated Large Language Model.",
+        "sessions": "Saturday 10:00am, Saturday 10:30am, Saturday 11:00am, Saturday 12:00pm, Saturday 12:30pm, Saturday 1:00pm, Saturday 1:30pm, Saturday 2:00pm, Saturday 2:30pm, Saturday 3:00pm, Sunday 10:00am, Sunday 10:30am, Sunday 11:00am, Sunday 12:00pm, Sunday 12:30pm, Sunday 1:00pm, Sunday 1:30pm, Sunday 2:00pm, Sunday 2:30pm, Sunday 3:00pm",
 	"uid": "16" },
 	{"name": "The future of Robotics",
 	"image": "19.jpg",
-	"recipe": "Experts will discuss the future of modern robotics in a closed session.",
+	"shortD": "Experts will discuss the future of modern robotics in a closed session.",
+        "longD": "Three of China's leading experts on modern robotics will be available to discuss the future of robotics in a small round table session. Limited places.",
+        "sessions": "Sunday 3:00pm, Sunday 3:00pm, Sunday 3:00pm, Sunday 3:00pm, Sunday 3:00pm, Sunday 3:00pm, Sunday 3:00pm, Sunday 3:00pm",
 	"uid": "19" }
 ]
