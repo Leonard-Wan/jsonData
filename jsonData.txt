@@ -1,14 +1,14 @@
 [
 	{"name": "DJI Phantom 5",
-	"image": "marsbar.jpg",
+	"image": "12.jpg",
 	"recipe": "Training sessions ith the new DJI Phantom 5",
 	"uid": "12" },
 	{"name": "Robot Demonstrations",
-	"image": "piefloater.jpg",
+	"image": "16.jpg",
 	"recipe": "An opportunity to interact with a humanoid robot designed for customer interaction.",
 	"uid": "16" },
 	{"name": "The future of Robotics",
-	"image": "frogcake.jpg",
+	"image": "19.jpg",
 	"recipe": "Experts will discuss the future of modern robotics in a closed session.",
 	"uid": "19" }
 ]
