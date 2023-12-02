@@ -1,14 +1,14 @@
 [
-	{"name": "eep Fried Mars Bar",
+	{"name": "DJI Phantom 5",
 	"image": "marsbar.jpg",
-	"recipe": "Buy Mars Bar. Deep fry in batter. Eat.",
-	"uid": "rd0012" },
-	{"name": "ie Floater",
+	"recipe": "Training sessions ith the new DJI Phantom 5",
+	"uid": "12" },
+	{"name": "Robot Demonstrations",
 	"image": "piefloater.jpg",
-	"recipe": "Purchase Balfours or Villis pie. Make pea soup from a can. Add pie to soup. Eat.",
-	"uid": "rd0014" },
-	{"name": "rog Cake",
+	"recipe": "An opportunity to interact with a humanoid robot designed for customer interaction.",
+	"uid": "16" },
+	{"name": "The future of Robotics",
 	"image": "frogcake.jpg",
-	"recipe": "Purchase from shop. Eat.",
-	"uid": "rd0015" }
+	"recipe": "Experts will discuss the future of modern robotics in a closed session.",
+	"uid": "19" }
 ]
