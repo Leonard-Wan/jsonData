@@ -16,5 +16,17 @@
 	"shortD": "Experts will discuss the future of modern robotics in a closed session.",
         "longD": "Three of China's leading experts on modern robotics will be available to discuss the future of robotics in a small round table session. Limited places.",
 	"sessions": "Sunday 3:00pm, Sunday 3:00pm, Sunday 3:00pm, Sunday 3:00pm, Sunday 3:00pm, Sunday 3:00pm, Sunday 3:00pm, Sunday 3:00pm",
-	"id": "19" }
+	"id": "19" },
+	{"name": "Lotus Eletre",
+	"image": "17.jpg",
+	"shortD": "A new electric sports car from Lotus that combines performance and efficiency.",
+	"longD": "Lotus Eletre is a stunning electric sports car that offers a thrilling driving experience and a range of up to 400 km on a single charge. It features a sleek design, a powerful motor, and a cutting-edge battery system. Only 500 units will be produced, so don't miss this opportunity to own a piece of history.",
+	"sessions": "Monday 10:00am, Monday 2:00pm, Tuesday 10:00am, Tuesday 2:00pm, Wednesday 10:00am, Wednesday 2:00pm, Thursday 10:00am, Thursday 2:00pm",
+	"id": "17" },
+        {"name": "MG7",
+	"image": "18.jpg",
+	"shortD": "A luxury sedan from MG that offers comfort and elegance.",
+	"longD": "MG7 is a premium sedan that delivers a smooth and refined ride. It features a spacious interior, a high-quality sound system, and a range of advanced safety and convenience features. It also comes with a hybrid option that reduces fuel consumption and emissions. MG7 is the perfect choice for those who value style and sophistication.",
+	"sessions": "Friday 10:00am, Friday 2:00pm, Saturday 10:00am, Saturday 2:00pm, Sunday 10:00am, Sunday 2:00pm, Monday 10:00am, Monday 2:00pm",
+	"id": "18" }
 ]
